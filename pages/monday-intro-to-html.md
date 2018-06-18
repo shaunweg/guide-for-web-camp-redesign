@@ -9,9 +9,8 @@
 
 ###### Intro to HTML
 
-- [ ] About HTML
-- [ ] Create your first page with Text Edit
-- [ ] Try Repl.it
+- [ ] Create a Hello World page with Text Edit
+- [ ] Understanding Tags
 
 ***
 

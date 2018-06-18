@@ -3,16 +3,16 @@
 
 ### Monday
 
-#### [Opening Videos](monday-opening-videos)
+#### [Opening Videos](monday-opening-videos.md)
 
 ***
 
 
-#### [Getting started with GitHub Pages](monday-getting-started)
+#### [Getting started with GitHub Pages](monday-getting-started.md)
 
 ***
 
-#### Intro to HTML
+#### [Intro to HTML](intro-to-html.md)
 
 ***
 

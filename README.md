@@ -1,18 +1,18 @@
 ### 2018 Summer Code Camp
 # Web Design
 
-#### [Monday](pages/monday.md)
+## [Click for Monday's Content](pages/monday.md)
 
 ***
 
-#### Tuesday
+## Tuesday
 
 ***
 
-#### Wednesday
+## Wednesday
 
 ***
 
-#### Thursday
+## Thursday
 
 ***

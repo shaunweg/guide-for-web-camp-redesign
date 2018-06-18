@@ -30,6 +30,3 @@
 
 ***
 
-###### Thinking about Design
-
-***

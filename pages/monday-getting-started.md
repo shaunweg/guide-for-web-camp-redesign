@@ -49,11 +49,13 @@
 
 > it contains several links, and at the far right
 
-> it includes a little square with an arrow.
+> it includes a little square with a white triangle pointing down.
 
-> **Click** the *arrow*
+> **Click** the *white triangle*
 
 > **Click** *Your Profile*
+
+![Image of GitHub.com](images/git04.jpg)
 
 ***
 

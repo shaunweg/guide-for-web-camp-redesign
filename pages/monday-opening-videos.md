@@ -4,9 +4,9 @@
 #### Monday
 
 ###### Opening Videos
-- [ ] Opening Video
-- [ ] A bit about the Web
-- [ ] What is GitHub?
+- [x] Opening Video
+- [x] A bit about the Web
+- [x] What is GitHub?
 
 ***
 

@@ -7,7 +7,8 @@
 
 ###### Getting Started with GitHub Pages
 - [x] Create a GitHub Account
-- [x] When you are Logged in...
+- [x] Go to your Profile
+- [x] You should see...
 - [x] Create and Initialize a New Repository
 - [x] Confirm you're in your repository
 - [x] Go to the Settings of your Repository
@@ -27,7 +28,21 @@
 
 ***
 
-#### When you are logged in, you should see
+#### **Go** to your Profolio
+
+> At the top of the page you should see a dark bar
+
+> it contains several links, and at the far right
+
+> it includes a little square with an arrow.
+
+> **Click** the *arrow*
+
+> **Click** *Your Profile*
+
+***
+
+#### On your Profile, you should see
 > At the very top:
 > - the overhead menu for all of *GitHub* on a dark background
 

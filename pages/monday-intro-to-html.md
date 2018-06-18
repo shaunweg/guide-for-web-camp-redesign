@@ -15,11 +15,23 @@
 
 ***
 
-#### Follow along to create a basic Webpage with HTML & JS
+#### Follow along to create a Hello World Page with plain text editor
 
-> [My YouTube Video to create a Basic Page](https://www.youtube.com/watch?v=d9IJq0o5PBc&feature=youtu.be)
+> [Video: A Hello World with TextEdit on a Mac](https://www.youtube.com/watch?v=M86sqTkw1Ek)
+
+> [Video: Adding HTML tags to our Hello World](https://www.youtube.com/watch?v=QjkobGJjFSE)
 
 ***
+
+#### Understandng Tags
+
+> [Video:Understanding Tags](https://www.youtube.com/watch?v=208a6ZLpEgw)
+
+***
+
+#### Try Repl.it
+
+> [Go to Repl.it and try it out](https://repl.it)
 
 ***
 

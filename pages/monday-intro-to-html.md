@@ -15,6 +15,8 @@
 
 ***
 
+![Image of HTML JS and CSS logos](../web-langs.jpg)
+
 #### Follow along to create a Hello World Page with plain text editor
 
 > [Video: A Hello World with TextEdit on a Mac](https://www.youtube.com/watch?v=M86sqTkw1Ek)

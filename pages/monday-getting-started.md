@@ -223,6 +223,4 @@
 
 ###### Intro to HTML
 
-###### Thinking about Design
-
 ***

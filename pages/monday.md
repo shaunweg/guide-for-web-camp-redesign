@@ -1,21 +1,21 @@
 ### 2018 Summer Code Camp
 # Web Design
 
-#### Monday
+### Monday
 
-### Opening Videos
-
-***
-
-
-### Getting started with GitHub Pages
+#### [Opening Videos](monday-opening-videos)
 
 ***
 
-### Intro to HTML
+
+#### [Getting started with GitHub Pages](monday-getting-started)
 
 ***
 
-### Thinking about Design
+#### Intro to HTML
+
+***
+
+#### Thinking about Design
 
 ***

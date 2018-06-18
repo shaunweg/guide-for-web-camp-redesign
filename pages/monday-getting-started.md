@@ -76,7 +76,9 @@
 
 ***
 
-> In the overhead menu on the right side, **click** repositories
+> In the content on the right
+
+> in the horizontal menu, **click** repositories
 
 ![Image of GitHub.com](images/git05.jpg)
 

@@ -31,13 +31,13 @@
 
 > When you create your account
 
-> you'll have a few things to fill out
+> you'll have a few things to **fill out**
 
 ![Image of GitHub.com](images/git02.jpg)
 
-> On the next page, you cann fill these out
+> On the next page, you can **fill** these out
 
-> or just hit skip at the bottom.
+> or just **click** *skip this step* at the bottom.
 
 ![Image of GitHub.com](images/git03.jpg)
 

@@ -15,7 +15,9 @@
 
 ***
 
-Try building a 
+#### Follow along to create a basic Webpage with HTML & JS
+
+> [My YouTube Video to create a Basic Page](https://www.youtube.com/watch?v=d9IJq0o5PBc&feature=youtu.be)
 
 ***
 

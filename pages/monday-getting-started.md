@@ -76,6 +76,8 @@
 
 ***
 
+#### **Create** and **Initialize** a New Repository
+
 > In the content on the right
 
 > in the horizontal menu, **click** repositories
@@ -88,7 +90,18 @@
 
 ***
 
-#### **Create** and **Initialize** a New Repository
+![Image of GitHub.com](images/email01.jpg)
+
+> If you haven't confirmed your email address with GitHub...
+
+> You'll get a notification to do so now.
+
+> Login to your email, and you should see someting similar.
+
+![Image of GitHub.com](images/email02.jpg)
+
+***
+
 > **Choose** a name, I used "hello-web" as mine
 > - If you aren't sure what to call yours, you can use the same name
 

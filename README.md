@@ -1,18 +1,18 @@
 ### 2018 Summer Code Camp
 # Web Design
 
-[ :arrow_forward: Monday](pages/monday.md)
+## [Monday](pages/monday.md)
 
 ***
 
-:arrow_forward: Tuesday
+## Tuesday
 
 ***
 
-:arrow_forward: Wednesday
+## Wednesday
 
 ***
 
-:arrow_forward: Thursday
+## Thursday
 
 ***

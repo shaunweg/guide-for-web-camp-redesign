@@ -1,4 +1,4 @@
-:arrow_left: ### [2018 Summer Code Camp](../README.me)
+### [2018 Summer Code Camp](../README.me)
 # Web Design
 
 ### Monday

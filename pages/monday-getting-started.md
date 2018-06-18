@@ -100,6 +100,15 @@
 
 ![Image of GitHub.com](images/email02.jpg)
 
+> After clicking the confirmation link, it'll take you to a new page
+
+> This is the *Emails* section of the *Settings*
+
+> If this happens to you:
+> - **naigate** to your *Profile*, and then
+> - **click** *Repositories*, and then
+> - **click** *New*.
+
 ***
 
 > **Choose** a name, I used "hello-web" as mine

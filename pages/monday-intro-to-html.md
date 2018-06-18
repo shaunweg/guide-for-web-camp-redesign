@@ -29,12 +29,6 @@
 
 ***
 
-#### Try Repl.it
-
-> [Go to Repl.it and try it out](https://repl.it)
-
-***
-
 ###### Thinking about Design
 
 ***

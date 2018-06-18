@@ -15,7 +15,7 @@
 
 ***
 
-![Image of HTML JS and CSS logos](../web-langs.jpg)
+![Image of HTML JS and CSS logos](../web-langs.jpeg)
 
 #### Follow along to create a Hello World Page with plain text editor
 

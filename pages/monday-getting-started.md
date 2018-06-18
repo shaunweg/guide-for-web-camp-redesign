@@ -24,9 +24,10 @@
 
 ### Getting started with GitHub Pages
 #### **Create** a *[GitHub](https://github.com)* account
-> https://github.com
 
 ![Image of GitHub.com](images/git01.jpg)
+
+> [https://github.com](https://github.com)
 
 > When you create your account
 
@@ -42,7 +43,7 @@
 
 ***
 
-#### **Go** to your Profolio
+#### **Go** to your Profile
 
 > At the top of the page you should see a dark bar
 

@@ -28,6 +28,18 @@
 
 ![Image of GitHub.com](images/git01.jpg)
 
+> When you create your account
+
+> you'll have a few things to fill out
+
+![Image of GitHub.com](images/git02.jpg)
+
+> On the next page, you cann fill these out
+
+> or just hit skip at the bottom.
+
+![Image of GitHub.com](images/git03.jpg)
+
 ***
 
 #### **Go** to your Profolio

@@ -122,6 +122,8 @@
 > - This isn't required, you can manually do it, but its a lot more work
 > - Lets do it the easier way.
 
+![Image of GitHub.com](images/repo01.jpg)
+
 ***
 
 #### Confirm you are in your repository

@@ -26,6 +26,8 @@
 #### **Create** a *[GitHub](https://github.com)* account
 > https://github.com
 
+![Image of GitHub.com](images/git01.jpg)
+
 ***
 
 #### **Go** to your Profolio

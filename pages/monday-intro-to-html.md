@@ -9,9 +9,12 @@
 
 ###### Intro to HTML
 
+- [ ] About HTML
+- [ ] Try Repl.it
+
 ***
 
-Guided lecture
+Coming Soon
 
 ***
 

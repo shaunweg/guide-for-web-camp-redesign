@@ -25,7 +25,7 @@
 
 #### Understandng Tags
 
-> [Video:Understanding Tags](https://www.youtube.com/watch?v=208a6ZLpEgw)
+> [Video: Understanding Tags](https://www.youtube.com/watch?v=208a6ZLpEgw)
 
 ***
 

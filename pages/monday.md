@@ -24,16 +24,6 @@
 
 ***
 
-#### Tuesday
-
-***
-
-#### Wednesday
-
-***
-
-#### Thursday
-
 ***
 
 ## Monday
@@ -51,7 +41,7 @@
 
 ***
 
-![Image of ProfessOrtocat](https://shaunweg.github.io/guide-for-web-camp/ortocat.png)
+![Image of ProfessOrtocat](../ortocat.png)
 
 ### Getting started with GitHub Pages
 #### **Create** a *[GitHub](https://github.com)* account

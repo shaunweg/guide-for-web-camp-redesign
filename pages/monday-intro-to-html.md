@@ -10,11 +10,12 @@
 ###### Intro to HTML
 
 - [ ] About HTML
+- [ ] Create your first page with Text Edit
 - [ ] Try Repl.it
 
 ***
 
-Coming Soon
+Try building a 
 
 ***
 

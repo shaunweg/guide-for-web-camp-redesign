@@ -15,7 +15,3 @@
 #### [Intro to HTML](monday-intro-to-html.md)
 
 ***
-
-#### Thinking about Design
-
-***

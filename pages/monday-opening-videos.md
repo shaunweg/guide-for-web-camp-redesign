@@ -29,5 +29,3 @@
 ###### Getting Started with GitHub Pages
 
 ###### Intro to HTML
-
-###### Thinking about Design

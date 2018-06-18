@@ -1,7 +1,7 @@
 ### 2018 Summer Code Camp
 # Web Design
 
-#### Monday
+#### [Monday](pages/monday.md)
 
 ***
 

@@ -195,6 +195,10 @@
 
 > Try new markdown tags from the Markdown Cheatsheet I provided earlier
 
+> What do you want your GitHub Page to be about?
+
+> Redesign it to be about something you are interested in.
+
 > Want to see the Markdown for this page?
 > - **Scroll Up** to the top of the page and
 > - **Click** *View the Project on GitHub*

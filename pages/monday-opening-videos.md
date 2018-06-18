@@ -5,22 +5,22 @@
 
 ###### Opening Videos
 - [x] Opening Video
-- [x] A bit about the Web
+- [x] A bit about the Internet
 - [x] What is GitHub?
 
 ***
 
 **Monday Opening Video:** 
 
-*[GitHub at UC Berkley](https://www.youtube.com/watch?v=KgVHcguTNtQ)*
+[GitHub at UC Berkley](https://www.youtube.com/watch?v=KgVHcguTNtQ)
 
-**Learn a bit about the web:**
+**Learn a bit about the internet:**
 
-*[What is the Web?](https://www.youtube.com/watch?v=J8hzJxb0rpc)*
+[Web vs Internet](https://www.youtube.com/watch?v=laepk9KrAZY)
 
 **What is GitHub?**
 
-*[Promotional video from GitHub](https://www.youtube.com/watch?v=w3jLJU7DT5E)*
+[Promotional video from GitHub](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
 ***
 

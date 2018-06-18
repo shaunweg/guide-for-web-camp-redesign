@@ -75,9 +75,14 @@
 >   - a grid based calendar
 
 ***
+
 > In the overhead menu on the right side, **click** repositories
 
+![Image of GitHub.com](images/git05.jpg)
+
 > then **click** the green "New" button
+
+![Image of GitHub.com](images/git06.jpg)
 
 ***
 

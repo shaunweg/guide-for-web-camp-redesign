@@ -51,11 +51,19 @@
 
 > Its to have an external file that connects to your HTML pages.
 
+> Repl.it automatically attaches an esternal CSS to your page.
+
+> Check out [this example](https://repl.it/@shaunweg/DoubleLightcoralDeprecatedsoftware) with a gradient background.
+
+> The code for it is cerated in CSS, and viewable in the CSS file.
+
+***
+
 > Follow along as I create a button with HTML & CSS
 
 > In the video, I'm using a free lightweight editor called Brackets.
 
-> You might need a little help to get this to work in repl.it.
+> Let us know if you need a  help getting it to work in Repl.it.
 
 > video: [Creating a Button with CSS](https://www.youtube.com/watch?v=9a6QXVFA8PE)
 

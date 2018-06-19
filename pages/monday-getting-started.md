@@ -213,6 +213,8 @@
 
 > Try **adding** some new lines of text to the *Markdown* file.
 
+![Image of GitHub.com](images/repo06.jpg)
+
 ***
 > This is *NOT* html. 
 
@@ -227,6 +229,8 @@
 > with a few boxes below it, put in a brief comment about the changes you made.
 
 > Then **click** *Commit changes*.
+
+![Image of GitHub.com](images/repo07.jpg)
 
 ***
 > To see more things you can do with markdown,

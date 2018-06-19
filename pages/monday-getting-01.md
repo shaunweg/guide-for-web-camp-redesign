@@ -28,7 +28,9 @@
 
 ***
 
-- [ ] [You should see...](monday-getting-02.md)
+> - [next](monday-getting-02.md)
+
+- [ ] You should see...
 - [ ] Create and Initialize a New Repository
 - [ ] Confirm you're in your repository
 - [ ] Go to the Settings of your Repository

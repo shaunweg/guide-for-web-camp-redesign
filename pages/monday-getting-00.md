@@ -33,7 +33,9 @@
 
 ***
 
-- [ ] [Go to your Profile](monday-getting-01.md)
+> - [next](monday-getting-01.md)
+
+- [ ] Go to your Profile
 - [ ] You should see...
 - [ ] Create and Initialize a New Repository
 - [ ] Confirm you're in your repository

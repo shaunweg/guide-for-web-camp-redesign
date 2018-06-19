@@ -10,7 +10,7 @@
 
 ***
 
-![Image of ProfessOrtocat](../ortocat.png)
+![Image of ProfessOrtocat](../ortocat2.png)
 
 ### Getting started with GitHub Pages
 #### **Create** a *[GitHub](https://github.com)* account

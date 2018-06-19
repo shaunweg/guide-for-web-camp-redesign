@@ -11,8 +11,6 @@
 
 ###### [Try HTML with Repl.it](tuesday-replit.md)
 
-- [x] Create an Account
-
 ***
 
 **Try HTML with Repl.it** 

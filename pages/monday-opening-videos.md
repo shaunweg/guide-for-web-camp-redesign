@@ -3,12 +3,6 @@
 
 #### Monday
 
-###### Opening Videos
-- [x] Opening Video
-- [x] What is GitHub?
-
-***
-
 > We are going to start the camp with creating a basic webpage on GitHub.
 
 > There are many ways to build a webpage. This is just one.
@@ -17,6 +11,12 @@
 > - HTML
 > - CSS
 > - JS
+
+###### Opening Videos
+- [x] Opening Video
+- [x] What is GitHub?
+
+***
 
 **Monday Opening Video:** 
 

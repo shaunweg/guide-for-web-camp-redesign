@@ -30,7 +30,7 @@
 
 ***
 
-> Watch this explanation on HTML, CSS, and JS.
+> **Watch** this *explanation on HTML, CSS, and JS*.
 
 > video: [HTML, CSS, JavaScript Explained](https://www.youtube.com/watch?v=gT0Lh1eYk78)
 
@@ -40,7 +40,7 @@
 
 > The easiest way to start, is probably by adding style tags directly into our HTML page.
 
-> Follow along with this video.
+> **Follow** along with *this video*.
 
 > video: [Inline styles with HTML](https://www.youtube.com/watch?v=dFgpxpTf7lw)
 
@@ -52,13 +52,15 @@
 
 > Repl.it automatically attaches an esternal CSS to your page.
 
-> Check out [this example](https://repl.it/@shaunweg/DoubleLightcoralDeprecatedsoftware) with a gradient background.
+> **Check out** *[this example](https://repl.it/@shaunweg/DoubleLightcoralDeprecatedsoftware) with a gradient background*.
 
 > The code for it is created in CSS, and viewable in the CSS file.
 
+> **Click** the *CSS file* in the left panel to see the CSS code for it.
+
 ***
 
-> Follow along as I create a button with HTML & CSS
+> **Follow along** as I create a *button with HTML & CSS*
 
 > In the video, I'm using a free lightweight editor called Brackets.
 

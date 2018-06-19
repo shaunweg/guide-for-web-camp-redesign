@@ -205,6 +205,8 @@
 ***
 > **Click** the *pencil* icon.
 
+![Image of GitHub.com](images/repo05.jpg)
+
 > You can see the page is created with very little information.
 
 > This file uses *Markdown*, thats what the *.md* in the *file name* stands for

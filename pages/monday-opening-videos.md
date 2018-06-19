@@ -12,6 +12,8 @@
 > - CSS
 > - JS
 
+> Since we are starting with GitHub, maybe we should learn a bit about it...
+
 ###### Opening Videos
 - [x] Opening Video
 - [x] What is GitHub?

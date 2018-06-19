@@ -20,7 +20,7 @@
 
 **Tuesday Opening Video:** 
 
-
+[Web Designer, Sarah Parmenter](https://www.youtube.com/watch?v=kf5MF38XgqY)
 
 ***
 

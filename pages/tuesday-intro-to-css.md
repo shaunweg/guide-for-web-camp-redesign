@@ -16,27 +16,28 @@
 
 **Intro to CSS** 
 
-> You've already built a page with GitHub Pages.
+> The next web language to look at is CSS
 
-> You've also started working a bit with HTML.
+> HTML is what you use to create the content
 
-> As we move into CSS, you probably want to have a plan on what you want to build.
+> If you have a website about cats, the HTML is the content, 
 
-> Before we move further, discuss ideas with someone near you.
+> it tells the browser what to load, including:
+> - text
+> - photos
+> - links
+
+> HTML doesn't tell the browser how it should look though.
+
+> CSS is what tells the browser how it should look.
+
+> If a webpage looks nice, its because of CSS.
 
 ***
 
-> Once you think you have an idea you want to develop,
+> Watch this explanation on HTML, CSS, and JS.
 
-> think about how you want it to look.
-
-> What layout would work well for what you want to build?
-
-> How do you want it to look?
-
-> Sketch out a plan for your website.
-
-> We'll use this plan as we continue.
+> video: [HTML, CSS, JavaScript Explained](https://www.youtube.com/watch?v=gT0Lh1eYk78)
 
 ***
 

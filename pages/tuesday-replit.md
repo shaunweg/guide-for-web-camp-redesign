@@ -15,9 +15,9 @@
 
 **Try HTML with Repl.it** 
 
-> First, go to [Repl.it](https://repl.it).
+> First, **go to** *[Repl.it](https://repl.it)*.
 
-> In the top left of your browser, click Sign Up.
+> In the top left of your browser, **click** *Sign Up*.
 
 ***
 
@@ -25,14 +25,14 @@
 
 > However, notice the little icons about that?
 
-> However, you can also sign up using: 
+> You can also sign up using: 
 > - a Google Account
 > - a GitHub Account
 > - a Facebook Account
 
-> See the black circle with the cat in it?
+> **See** the *black circle with the cat* in it?
 
-> Click it to sign up with GitHub.
+> **Click it** to sign up with *GitHub*.
 
 ![image of Repl.it](images/replit01.jpg)
 
@@ -42,7 +42,7 @@
 
 > Repl.it isn't just for HTML, you can work with tons of different languages in it.
 
-> In that box, type in HTML to start creating an HTML document in Repl.it
+> In that box, **type in** *HTML* to start creating an HTML, CSS, & JS document in Repl.it
 
 ![image of Repl.it](images/replit02.jpg)
 
@@ -58,11 +58,11 @@
 
 ![image of Repl.it](images/replit03.jpg)
 
-> Try adding something between the body tags.
+> **Try adding something** between the *body tags*.
 
-> Once you've modified the code, click the run button.
+> Once you've modified the code, **click** the *run* button.
 
-> Try making a page with the code.
+> **Try making** a *page with the code*.
 
 ***
 

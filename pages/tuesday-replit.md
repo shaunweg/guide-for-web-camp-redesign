@@ -3,13 +3,13 @@
 
 #### Tuesday
 
+###### [Opening Videos](tuesday-opening-videos.md)
+
+***
+
 > If you didn't get to HTML yesterday morning, 
 
 > check out the [Intro to HTML from Monday](monday-intro-to-html.md) first.
-
-###### Opening Videos
-
-###### [Try HTML with Repl.it](tuesday-replit.md)
 
 ***
 

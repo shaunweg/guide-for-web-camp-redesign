@@ -55,7 +55,7 @@
 
 > Check out [this example](https://repl.it/@shaunweg/DoubleLightcoralDeprecatedsoftware) with a gradient background.
 
-> The code for it is cerated in CSS, and viewable in the CSS file.
+> The code for it is created in CSS, and viewable in the CSS file.
 
 ***
 

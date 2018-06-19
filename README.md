@@ -5,7 +5,7 @@
 
 ***
 
-## Tuesday
+## [Tuesday](pages/tuesday.md)
 
 ***
 

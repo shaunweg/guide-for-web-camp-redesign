@@ -32,7 +32,7 @@
 
 ***
 
-> - [next](monday-getting-04.md)
+> - [next](monday-getting-03.md)
 
 - [ ] Create and Initialize a New Repository
 - [ ] Confirm you're in your repository

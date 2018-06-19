@@ -21,6 +21,8 @@
 
 > In the top left of your browser, click Sign Up.
 
+***
+
 > From the drop down menu, there are your expected boxes.
 
 > However, notice the little icons about that?
@@ -29,6 +31,8 @@
 > - a Google Account
 > - a GitHub Account
 > - a Facebook Account
+
+***
 
 > See the black circle with the cat in it?
 
@@ -40,15 +44,21 @@
 
 > In that box, type in HTML to start creating an HTML document in Repl.it
 
+***
+
 > On the screen, you'll see a series of panels.
 
 > In the middle panel, there's already a chunk of code.
 
 > In this section, you can start modifying the code. 
 
+***
+
 > Try adding something between the body tags.
 
 > Once you've modified the code, click the run button.
+
+> Try making a page with the code.
 
 ***
 

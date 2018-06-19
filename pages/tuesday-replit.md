@@ -56,6 +56,8 @@
 
 ***
 
+![image of Repl.it](images/replit03.jpg)
+
 > Try adding something between the body tags.
 
 > Once you've modified the code, click the run button.

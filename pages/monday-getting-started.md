@@ -255,6 +255,14 @@
 
 > **Scroll down** to where we found GitHub Pages, and **click** *Choose* a theme
 
+![Image of GitHub.com](images/repo08.jpg)
+
+> There's a handful of different themes you can select.
+
+> Choose which ever you like best.
+
+***
+
 > In your repository, you'll notice a new file:
 > - _config.yml
 > This file tells GitHub Pages what styles to use with your page.

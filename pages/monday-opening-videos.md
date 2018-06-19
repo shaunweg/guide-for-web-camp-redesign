@@ -31,6 +31,10 @@
 
 ***
 
+## End.
+
+> - [go back to Monday](monday.md)
+
 ***
 
 ###### Getting Started with GitHub Pages

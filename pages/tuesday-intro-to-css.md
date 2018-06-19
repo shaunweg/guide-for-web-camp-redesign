@@ -38,7 +38,7 @@
 
 > There are multiple ways we can start understanding CSS.
 
-> The easiest way to start, is probably by adding style tags directly into our HTML page.
+> The easiest is probably adding style tags directly into our HTML page.
 
 > **Follow** along with *this video*.
 

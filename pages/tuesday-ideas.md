@@ -15,48 +15,27 @@
 
 **Sketch an Idea** 
 
-> First, go to [Repl.it](https://repl.it).
+> You've already built a page with GitHub Pages.
 
-> In the top left of your browser, click Sign Up.
+> You've also started working a bit with HTML.
 
-***
+> As we move into CSS, you probably want to have a plan on what you want to build.
 
-> From the drop down menu, there are your expected boxes.
-
-> However, notice the little icons about that?
-
-> However, you can also sign up using: 
-> - a Google Account
-> - a GitHub Account
-> - a Facebook Account
+> Before we move further, discuss ideas with someone near you.
 
 ***
 
-> See the black circle with the cat in it?
+> Once you think you have an idea you want to develop,
 
-> Click it to sign up with GitHub.
+> think about how you want it to look.
 
-> After authorizing, you'll see a screen with a box at the top.
+> What layout would work well for what you want to build?
 
-> Repl.it isn't just for HTML, you can work with tons of different languages in it.
+> How do you want it to look?
 
-> In that box, type in HTML to start creating an HTML document in Repl.it
+> Sketch out a plan for your website.
 
-***
-
-> On the screen, you'll see a series of panels.
-
-> In the middle panel, there's already a chunk of code.
-
-> In this section, you can start modifying the code. 
-
-***
-
-> Try adding something between the body tags.
-
-> Once you've modified the code, click the run button.
-
-> Try making a page with the code.
+> We'll use this plan as we continue.
 
 ***
 

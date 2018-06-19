@@ -5,9 +5,10 @@
 
 ###### Opening Videos
 
+###### Getting Started with GitHub Pages
+
 ![Image of ProfessOrtocat](../ortocat.png)
 
-###### Getting Started with GitHub Pages
 - [ ] [Create a GitHub Account](monday-getting-00.md)
 - [ ] [Go to your Profile](monday-getting-01.md)
 - [ ] [You should see...](monday-getting-02.md)

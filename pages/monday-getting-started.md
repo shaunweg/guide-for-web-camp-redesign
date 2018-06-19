@@ -155,6 +155,8 @@
 #### Go to the Settings of your Repository
 > In the horizontal menu below your username and repository name, **click** *Settings*
 
+![Image of GitHub.com](images/repo02.jpg)
+
 ***
 
 #### Enable Github Pages

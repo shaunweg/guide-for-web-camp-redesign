@@ -37,6 +37,16 @@
 
 ***
 
+> There are multiple ways we can start understanding CSS.
+
+> The easiest way to start, is probably by adding style tags directly into our HTML page.
+
+> Follow along with this video.
+
+> video: [Inline styles with HTML](https://www.youtube.com/watch?v=dFgpxpTf7lw)
+
+***
+
 ## End.
 
 > - [go back to Tuesday](tuesday.md)

@@ -166,6 +166,8 @@
 
 > **Click** the *Save* button next to it
 
+![Image of GitHub.com](images/repo03.jpg)
+
 ***
 
 #### Confirm your GitHub Page is working!
@@ -185,18 +187,20 @@
 ***
 
 #### Edit the README.md file
-> To do this, you need to go back to your repository page
+> To do this, you need to **go back** to your *repository page*
 > - the URL for mine is: [https://github.com/shaunweg/hello-web](https://github.com/shaunweg/hello-web)
 > - Yours should be similar
 
 ***
 > **Click** the *README.md* file name that is in blue
 
+![Image of GitHub.com](images/repo04.jpg)
+
 > On the page that loads, a few lines down,
 
 > you should see a horizontal content bar that says the # of lines, the # of bytes,
 
-> and on the far right, has a few buttons and icons.
+> and on the far right, there's a few buttons and icons.
 
 ***
 > **Click** the *pencil* icon.

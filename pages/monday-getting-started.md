@@ -43,6 +43,7 @@
 - [ ] Edit the README.md file
 - [ ] Add a theme
 - [ ] Try viewing your GitHub page again.
+
 ***
 
 ###### Intro to HTML

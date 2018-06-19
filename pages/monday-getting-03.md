@@ -9,7 +9,6 @@
 - [x] Create a GitHub Account
 - [x] Go to your Profile
 - [x] You should see...
-- [x] Create and Initialize a New Repository
 
 ***
 

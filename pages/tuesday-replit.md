@@ -44,6 +44,8 @@
 
 > In that box, type in HTML to start creating an HTML document in Repl.it
 
+![image of Repl.it](images/replit02.jpg)
+
 ***
 
 > On the screen, you'll see a series of panels.

@@ -30,11 +30,13 @@
 > - a GitHub Account
 > - a Facebook Account
 
-***
-
 > See the black circle with the cat in it?
 
 > Click it to sign up with GitHub.
+
+![image of Repl.it](images/replit01.jpg)
+
+***
 
 > After authorizing, you'll see a screen with a box at the top.
 

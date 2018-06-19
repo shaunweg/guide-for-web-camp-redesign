@@ -18,7 +18,7 @@
 
 ***
 
-**Monday Opening Video:** 
+**Tuesday Opening Video:** 
 
 
 

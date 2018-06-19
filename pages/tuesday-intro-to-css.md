@@ -47,6 +47,21 @@
 
 ***
 
+> The main idea of CSS is not to do it inline though...
+
+> Its to have an external file that connects to your HTML pages.
+
+> Follow along as I create a button with HTML & CSS
+
+> In the video, I'm using a free lightweight editor called Brackets.
+
+> You might need a little help to get this to work in repl.it.
+
+> video: [Creating a Button with CSS](https://www.youtube.com/watch?v=9a6QXVFA8PE)
+
+
+***
+
 ## End.
 
 > - [go back to Tuesday](tuesday.md)

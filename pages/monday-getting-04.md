@@ -10,7 +10,6 @@
 - [x] Go to your Profile
 - [x] You should see...
 - [x] Create and Initialize a New Repository
-- [x] Confirm you're in your repository
 
 ***
 

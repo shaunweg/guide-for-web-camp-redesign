@@ -23,8 +23,32 @@
 
 > From the drop down menu, there are your expected boxes.
 
+> However, notice the little icons about that?
+
 > However, you can also sign up using: 
 > - a Google Account
+> - a GitHub Account
+> - a Facebook Account
+
+> See the black circle with the cat in it?
+
+> Click it to sign up with GitHub.
+
+> After authorizing, you'll see a screen with a box at the top.
+
+> Repl.it isn't just for HTML, you can work with tons of different languages in it.
+
+> In that box, type in HTML to start creating an HTML document in Repl.it
+
+> On the screen, you'll see a series of panels.
+
+> In the middle panel, there's already a chunk of code.
+
+> In this section, you can start modifying the code. 
+
+> Try adding something between the body tags.
+
+> Once you've modified the code, click the run button.
 
 ***
 

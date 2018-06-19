@@ -11,8 +11,6 @@
 
 ***
 
-![Image of ProfessOrtocat](../ortocat.png)
-
 ### Getting started with GitHub Pages
 #### On your Profile, you should see
 > At the very top:

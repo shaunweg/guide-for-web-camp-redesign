@@ -40,7 +40,7 @@
 
 ***
 
-End.
+## End.
 
 > - [go back to Monday](monday.md)
 

@@ -17,7 +17,14 @@
 
 **Try HTML with Repl.it** 
 
+> First, go to [Repl.it](https://repl.it).
 
+> In the top left of your browser, click Sign Up.
+
+> From the drop down menu, there are your expected boxes.
+
+> However, you can also sign up using: 
+> - a Google Account
 
 ***
 

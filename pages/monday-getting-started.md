@@ -8,9 +8,9 @@
 ![Image of ProfessOrtocat](../ortocat.png)
 
 ###### Getting Started with GitHub Pages
-- [ ] Create a GitHub Account
+- [ ] [Create a GitHub Account](monday-getting-00.md)
 - [ ] [Go to your Profile](monday-getting-01.md)
-- [ ] You should see...
+- [ ] [You should see...](monday-getting-02.md)
 - [ ] Create and Initialize a New Repository
 - [ ] Confirm you're in your repository
 - [ ] Go to the Settings of your Repository

@@ -10,6 +10,7 @@
 
 ###### [Opening Videos](tuesday-opening-videos.md)
 ###### [Try HTML with Repl.it](tuesday-replit.md)
+###### [Intro to CSS](tuesday-intro-to-css.md)
 
 ***
 
@@ -42,9 +43,5 @@
 ## End.
 
 > - [go back to Tuesday](tuesday.md)
-
-***
-
-###### [Intro to CSS](tuesday-intro-to-css.md)
 
 ***

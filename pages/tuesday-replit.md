@@ -5,7 +5,7 @@
 
 > If you didn't get to HTML yesterday morning, 
 
-> check out the Intro to HTML from Monday first.
+> check out the [Intro to HTML from Monday](monday-intro-to-html.md) first.
 
 ###### Opening Videos
 

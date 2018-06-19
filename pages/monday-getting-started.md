@@ -33,7 +33,7 @@
 
 ***
 
-- [ ] Go to your Profile
+- [ ] [Go to your Profile](monday-getting-01.md)
 - [ ] You should see...
 - [ ] Create and Initialize a New Repository
 - [ ] Confirm you're in your repository

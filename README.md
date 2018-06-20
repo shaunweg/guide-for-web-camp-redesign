@@ -9,7 +9,7 @@
 
 ***
 
-## Wednesday
+## [Wednesday](pages/wednesday.md)
 
 ***
 

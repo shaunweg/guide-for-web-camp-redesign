@@ -8,7 +8,7 @@
 
 > and starting to code your webpage design
 
-**Tuesday Opening Video:** 
+**Wednesday Opening Video:** 
 
 [Web Artist, Rafaël Rozendaal](https://drive.google.com/file/d/0B2kk-2sM3a1yTUJ1dlFoS3ZMUlk/view)
 

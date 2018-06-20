@@ -66,6 +66,10 @@
 
 > Let us know if you need a  help getting it to work in Repl.it.
 
+> Brackets has a fancy color selector, and Repl.it doesnt :(
+
+> But, you can find plenty online! I like this one from [HTMLColorCodes.com](https://htmlcolorcodes.com/color-picker/)
+
 > video: [Creating a Button with CSS](https://www.youtube.com/watch?v=9a6QXVFA8PE)
 
 

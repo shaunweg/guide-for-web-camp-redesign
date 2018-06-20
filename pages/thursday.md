@@ -55,7 +55,20 @@
 
 #### Learn More
 
-> video coming soon
+> There are a ton of resources available on the net.
+
+> Some are good, some are not.
+
+> Some are free, some are not.
+
+> Some are beginner friendly, some are not.
+
+> Hopefully, you have enough of a basis now to pursue more on your own.
+
+> What are some options?
+> - Lynda.com ([HTML](https://www.lynda.com/search?q=html&f=level%3a1%5eBeginner%3bmeta_topic_facet%3aWeb+Design)) ([CSS](https://www.lynda.com/search?q=css&f=level%3a1%5eBeginner)) ([JS](https://www.lynda.com/search?q=javascript&f=meta_topic_facet%3aWeb+Design%3blevel%3a1%5eBeginner)) 
+> - Coursera ([HTML & CSS](https://www.coursera.org/courses?query=html&page=1&indices%5Btest_suggestions%5D%5Bconfigure%5D%5BhitsPerPage%5D=5&indices%5Btest_suggestions%5D%5Bpage%5D=1&indices%5Btest_degrees_keyword_only%5D%5Bconfigure%5D%5BhitsPerPage%5D=3&indices%5Btest_degrees_keyword_only%5D%5Bpage%5D=1&indices%5Btest_products_skills_rerank%5D%5Bconfigure%5D%5BhitsPerPage%5D=20&indices%5Btest_products_skills_rerank%5D%5Bpage%5D=1)) ([JS](https://www.coursera.org/courses?query=javascript&page=1&indices%5Btest_suggestions%5D%5Bconfigure%5D%5BhitsPerPage%5D=5&indices%5Btest_suggestions%5D%5Bpage%5D=1&indices%5Btest_degrees_keyword_only%5D%5Bconfigure%5D%5BhitsPerPage%5D=3&indices%5Btest_degrees_keyword_only%5D%5Bpage%5D=1&indices%5Btest_products_skills_rerank%5D%5Bconfigure%5D%5BhitsPerPage%5D=20&indices%5Btest_products_skills_rerank%5D%5Bpage%5D=1))
+- edX ([HTML](https://www.edx.org/course?search_query=html)) ([CSS](https://www.edx.org/course?search_query=css)) ([JS](https://www.edx.org/course?search_query=javascript))
 
 ***
 

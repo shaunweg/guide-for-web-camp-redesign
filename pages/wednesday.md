@@ -14,9 +14,29 @@
 
 ***
 
+> Video: [How does CSS Work?](https://www.youtube.com/watch?v=Dk2QZri5hCo)
+
 ***
 
-#### Try HTML with Repl.it
+#### Check out CSS Zen Garden
+
+> Go to the [CSS Zen Garden](http://csszengarden.com)
+
+> On the right side, you can select a few highlighted designs
+
+> Or click View All Designs.
+
+> These different designs are just created with CSS,
+
+> The HTML for each of these pages for is the exact same
+
+***
+
+> Try downloading the HTML & CSS, 
+
+> copy and paste the code into Repl.it or GitHub
+
+> and experimenting with it.
 
 ***
 

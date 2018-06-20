@@ -17,55 +17,38 @@
 
 ***
 
-#### Check out CSS Zen Garden
+#### Build a Layout with HTML & CSS
 
-> Go to the [CSS Zen Garden](http://csszengarden.com)
+> Follow along with the next video that uses HTML & CSS.
 
-> On the right side, you can select a few highlighted designs
+> to build a basic layout for a website.
 
-> Or click View All Designs.
+> [Learn CSS & Build a Webiste in 12 minutes](https://www.youtube.com/watch?v=0afZj1G0BIE)
 
-> These different designs are just created with CSS,
+> This understanding, combined with what we've already done,
 
-> The HTML for each of these pages for is the exact same
+> should help you understand how to start building
 
-***
-
-> Try downloading the HTML & CSS, 
-
-> copy and paste the code into Repl.it or GitHub
-
-> and experimenting with it.
+> larger websites that look the way you want.
 
 ***
 
-#### Try a bit of JavaScript
+#### Continue Coding your Design
 
-> We aren't going to get super extensive into JavaScript
+> Continue working with the design you've created.
 
-> because designing the visuals of your page doesn't require it.
-
-> However, you should give it a try to understand how it works.
-
-> Javascript actually is a programming language, unlike HTML and CSS.
-
-> Try a few simple JS tutorials:
-> - [JavaScript Alerts](https://www.youtube.com/watch?v=LAXBrWPhuzs)
-> - [Alerts with Buttons](https://www.youtube.com/watch?v=sDBnxGWlgVA)
-> - [Using Simple Prompts](https://www.youtube.com/watch?v=hdl8s3GMc0A)
+> If you need help, ask!
 
 ***
 
-#### Start coding your design
+#### Use your GitHub account as your host
 
-> Lets start chaning your idea from design into code
+> video coming soon
 
-> Doing so will probably focus mostly on working with,
+***
 
-> of perhaps fighting with, CSS.
+#### Learn More
 
-> Its hard at the start, but the more you play with it,
-
-> the more you'll get the hang of it.
+> video coming soon
 
 ***

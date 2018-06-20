@@ -40,6 +40,25 @@
 
 ***
 
+#### Try a bit of JavaScript
+
+> We aren't going to get super extensive into JavaScript
+
+> because designing the visuals of your page doesn't require it.
+
+> However, you should give it a try to understand how it works.
+
+> Javascript actually is a programming language, unlike HTML and CSS.
+
+> Try a few simple JS tutorials:
+> - [JavaScript Alerts](https://www.youtube.com/watch?v=LAXBrWPhuzs)
+> - [Alerts with Buttons](https://www.youtube.com/watch?v=sDBnxGWlgVA)
+> - [Using Simple Prompts](https://www.youtube.com/watch?v=hdl8s3GMc0A)
+
+***
+
 #### Start coding your design
+
+> Lets start chaning your idea from design into code
 
 ***

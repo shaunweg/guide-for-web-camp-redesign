@@ -61,4 +61,12 @@
 
 > Lets start chaning your idea from design into code
 
+> Doing so will probably focus mostly on working with,
+
+> of perhaps fighting with, CSS.
+
+> Its hard at the start, but the more you play with it,
+
+> the more you'll get the hang of it.
+
 ***

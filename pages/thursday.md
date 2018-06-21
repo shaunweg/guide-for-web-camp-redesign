@@ -7,9 +7,11 @@
 
 > Focus on building a webpage you want to design
 
-**Thursday Opening Video:** 
+**Thursday Opening Videos:** 
 
 [Developer and Fashion Designer, Lisa Lang](https://www.youtube.com/watch?v=WVQe1ZE7FtU)
+
+[Fred Hutchinson Cancer Research Center](https://www.youtube.com/watch?v=LreQfx5x740)
 
 ***
 

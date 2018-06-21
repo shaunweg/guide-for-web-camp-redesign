@@ -39,6 +39,11 @@
 
 > Live demonstration.
 
+> Examples of sites to view sources:
+> - [early 90's: Welcome to Netscape](http://home.mcom.com/home/welcome.html)
+> - [late 90's: SpaceJam](https://www.warnerbros.com/archive/spacejam/movie/jam.htm)
+> - [current: Fajne Chłopaki](https://www.fajnechlopaki.com)
+
 ***
 
 #### Continue Coding your Design

@@ -35,7 +35,7 @@
 
 #### Viewing Other People's Code
 
-> Video coming soon
+> Live demonstration.
 
 ***
 
@@ -49,7 +49,7 @@
 
 #### Use your GitHub account as your host
 
-> video coming soon
+> Live demonstration.
 
 ***
 

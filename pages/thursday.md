@@ -43,7 +43,7 @@
 > - [early 90's: Welcome to Netscape](http://home.mcom.com/home/welcome.html)
 > - [late 90's: SpaceJam](https://www.warnerbros.com/archive/spacejam/movie/jam.htm)
 > - [current: Fajne Chłopaki](https://www.fajnechlopaki.com)
-> - [my example, hosted on GitHub](https://shaunweg.github.io/basic-css-layout/)
+> - [my example, hosted on GitHub](https://shaunweg.github.io/example/)
 
 ***
 

@@ -13,6 +13,6 @@
 
 ***
 
-## Thursday
+## [Thursday](pages/thursday.md)
 
 ***

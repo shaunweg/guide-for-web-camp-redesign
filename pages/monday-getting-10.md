@@ -28,8 +28,6 @@
 
 > or add more content to your page
 
-> Try new markdown tags from the Markdown Cheatsheet I provided earlier
-
 > What do you want your GitHub Page to be about?
 
 > Redesign it to be about something you are interested in.

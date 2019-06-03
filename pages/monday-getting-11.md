@@ -31,7 +31,7 @@
 
 > This is the second version of it.
 
-> Check out the first version of it, [here.](https://shaunweg.github.io/guide-for-web-camp/)
+> Check out last year's version of it [here.](https://shaunweg.github.io/guide-for-web-camp/)
 
 > Which is better? Is it better with:
 > - more pictures? With pictures helping guide you instead of just words?

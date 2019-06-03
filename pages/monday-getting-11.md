@@ -42,8 +42,6 @@
 
 ## End.
 
-> - [go back to Monday](monday.md)
-
 ***
 
 ###### Intro to HTML

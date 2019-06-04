@@ -7,6 +7,10 @@
 
 ***
 
+#### [More Markdown](tuesday-markdown.md)
+
+***
+
 
 #### [Try HTML & CSS](tuesday-replit.md)
 

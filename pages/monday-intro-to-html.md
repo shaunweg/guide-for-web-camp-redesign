@@ -1,4 +1,4 @@
-### 2018 Summer Code Camp
+### 2019 Summer Code Camp
 # Web Design
 
 #### Monday
@@ -69,6 +69,6 @@
 
 ## End.
 
-> - [go back to Monday](monday.md)
+> - [go back to Tueday](tuesday.md)
 
 ***

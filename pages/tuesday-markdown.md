@@ -28,8 +28,3 @@
 
 ***
 
-###### Intro to HTML
-
-- [ ] Create a Hello World page with Text Edit
-- [ ] Understanding Tags
-- [ ] Try HTML with Repl.it

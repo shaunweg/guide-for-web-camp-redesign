@@ -30,9 +30,9 @@
 
 ***
 
-###### [More Markdown](tuesday-replit.md)
+###### [More Markdown](tuesday-markdown.md)
 
-###### [HTML & CSS with Repl.it](tuesday-intro-to-css.md)
+###### [HTML & CSS with Repl.it](tuesday-replit.md)
 
 ###### [Sketch an Idea](tuesday-ideas.md)
 

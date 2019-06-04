@@ -1,4 +1,4 @@
-### 2018 Summer Code Camp
+### 2019 Summer Code Camp
 # Web Design
 
 #### Tuesday
@@ -9,7 +9,7 @@
 
 > If you didn't get to HTML yesterday morning, 
 
-> check out the [Intro to HTML from Monday](monday-intro-to-html.md) first.
+> Check out the [Intro to HTML from Monday](monday-intro-to-html.md) first.
 
 ***
 

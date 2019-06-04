@@ -19,6 +19,14 @@
 
 > - [go back to Tuesday](tuesday.md)
 
+[Tasklists with Markdown](https://www.youtube.com/watch?v=rTXM721N4MY&list=UU2O1T_XH1GPHVt_2aagyiMA)
+
+[]()
+
+[]()
+
+[]()
+
 ***
 
 ###### Intro to HTML

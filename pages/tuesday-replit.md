@@ -83,6 +83,49 @@
 
 ***
 
+#### Understandng Tags
+
+> [Video: Understanding Tags](https://www.youtube.com/watch?v=208a6ZLpEgw)
+
+***
+
+**Intro to CSS** 
+
+> The next web language to look at is CSS
+
+> HTML is what you use to create the content
+
+> If you have a website about cats, the HTML is the content, 
+
+> it tells the browser what to load, including:
+> - text
+> - photos
+> - links
+
+> HTML doesn't tell the browser how it should look though.
+
+> CSS is what tells the browser how it should look.
+
+> If a webpage looks nice, its because of CSS.
+
+***
+
+> **Watch** this *explanation on HTML, CSS, and JS*.
+
+> video: [HTML, CSS, JavaScript Explained](https://www.youtube.com/watch?v=gT0Lh1eYk78)
+
+***
+
+> There are multiple ways we can start understanding CSS.
+
+> The easiest is probably adding style tags directly into our HTML page.
+
+> **Follow** along with *this video*.
+
+> video: [Inline styles with HTML](https://www.youtube.com/watch?v=dFgpxpTf7lw)
+
+***
+
 ## End.
 
 > - [go back to Tuesday](tuesday.md)

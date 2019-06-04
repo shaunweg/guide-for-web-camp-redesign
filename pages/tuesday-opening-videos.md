@@ -1,11 +1,11 @@
-### 2018 Summer Code Camp
+### 2019 Summer Code Camp
 # Web Design
 
 #### Tuesday
 
-> Today, we'll continue where we left off yesterday...
+> Today, we'll play a little bit more with Markdown...
 
-> working a bit with HTML and
+> then try out some HTML and
 
 > trying out the Web IDE, Repl.it
 
@@ -30,9 +30,9 @@
 
 ***
 
-###### [Try HTML with Repl.it](tuesday-replit.md)
+###### [More Markdown](tuesday-replit.md)
 
-###### [Intro to CSS](tuesday-intro-to-css.md)
+###### [HTML & CSS with Repl.it](tuesday-intro-to-css.md)
 
 ###### [Sketch an Idea](tuesday-ideas.md)
 

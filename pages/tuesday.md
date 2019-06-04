@@ -12,9 +12,6 @@
 
 ***
 
-#### [Intro to CSS](tuesday-intro-to-css.md)
-
-***
 
 #### [Sketch an Idea](tuesday-ideas.md)
 

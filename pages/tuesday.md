@@ -8,11 +8,7 @@
 ***
 
 
-#### [Try HTML with Repl.it](tuesday-replit.md)
+#### [Try HTML & CSS](tuesday-replit.md)
 
 ***
 
-
-#### [Sketch an Idea](tuesday-ideas.md)
-
-***

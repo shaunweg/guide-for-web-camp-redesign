@@ -22,7 +22,7 @@
 
 [Build with HTML, p1](https://youtu.be/06NmcA4vT68)
 
-[Build with HTML, p2](https://youtu.be/Q3SY6rbiLdg)
+[Build with HTML, p2](https://youtu.be/rdDws-Xpquc)
 
 [Adding CSS](https://youtu.be/fx1nh8ajUkU)
 

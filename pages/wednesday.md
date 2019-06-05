@@ -1,5 +1,5 @@
 
-### 2018 Summer Code Camp
+### 2019 Summer Code Camp
 # Web Design
 
 ### Wednesday
@@ -15,6 +15,16 @@
 ***
 
 > Video: [How does CSS Work?](https://www.youtube.com/watch?v=Dk2QZri5hCo)
+
+***
+
+> Today, lets create a small website together. We're gonig to build it first with HTML, then add a little CSS to it.
+
+[Build with HTML, p1](https://youtu.be/06NmcA4vT68)
+
+[Build with HTML, p2](https://youtu.be/Q3SY6rbiLdg)
+
+[Adding CSS](https://youtu.be/fx1nh8ajUkU)
 
 ***
 
@@ -37,36 +47,5 @@
 > copy and paste the code into Repl.it or GitHub
 
 > and experimenting with it.
-
-***
-
-#### Try a bit of JavaScript
-
-> We aren't going to get super extensive into JavaScript
-
-> because designing the visuals of your page doesn't require it.
-
-> However, you should give it a try to understand how it works.
-
-> Javascript actually is a programming language, unlike HTML and CSS.
-
-> Try a few simple JS tutorials:
-> - [JavaScript Alerts](https://www.youtube.com/watch?v=LAXBrWPhuzs)
-> - [Alerts with Buttons](https://www.youtube.com/watch?v=sDBnxGWlgVA)
-> - [Using Simple Prompts](https://www.youtube.com/watch?v=hdl8s3GMc0A)
-
-***
-
-#### Start coding your design
-
-> Lets start chaning your idea from design into code
-
-> Doing so will probably focus mostly on working with,
-
-> of perhaps fighting with, CSS.
-
-> Its hard at the start, but the more you play with it,
-
-> the more you'll get the hang of it.
 
 ***

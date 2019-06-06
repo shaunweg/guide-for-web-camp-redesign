@@ -65,12 +65,6 @@
 
 ***
 
-#### Use your GitHub account as your host
-
-> Live demonstration.
-
-***
-
 #### Learn More
 
 > There are a ton of resources available on the net.

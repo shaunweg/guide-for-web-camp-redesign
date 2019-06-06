@@ -19,7 +19,17 @@
 
 ***
 
-#### Build a Layout with HTML & CSS
+#### Adding More to our About Me Page
+
+> Our next few videos to continue our page:
+
+[Adding a YouTube Video to Our Page](https://youtu.be/Ffzyd5Cqcdg)
+
+[Centering an Image with CSS](https://youtu.be/ighxFz7-tKk)
+
+[Rearranging our Page with CSS](https://youtu.be/XRAdtUHIfCM)
+
+#### Other Resources for Building a Layout with HTML & CSS
 
 > Follow along with the next video that uses HTML & CSS.
 
